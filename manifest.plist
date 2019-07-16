@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://phantom-test-oss.oss-cn-shanghai.aliyuncs.com/app/resource/appdown/57.png</string>
+					<string>https://phantom-test-oss.oss-cn-shanghai.aliyuncs.com/app/resource/appdown/little.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://phantom-test-oss.oss-cn-shanghai.aliyuncs.com/app/resource/appdown/512.png</string>
+					<string>https://phantom-test-oss.oss-cn-shanghai.aliyuncs.com/app/resource/appdown/big.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
